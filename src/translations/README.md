@@ -16,6 +16,7 @@ JSON object with translation keys and their corresponding localized strings.
 - [pl.json](pl.json): Polish translations.
 - [ru.json](ru.json): Russian translations.
 - [sv.json](sv.json): Swedish translations.
+- [pt-br.json](pt-br.json): Portuguese Translations.
 
 ## Usage
 

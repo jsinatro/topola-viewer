@@ -129,7 +129,7 @@ div.zoom {
 }
 
 .link-span {
-  color: #4183c4;
+  color: #333;
   cursor: pointer;
 }
 
@@ -430,4 +430,9 @@ div.zoom {
     left: initial;
     right: 0;
   }
+  
+  .ui.inverted.blue.menu {
+    background-color: #333 !important;
+  }
+
 }
